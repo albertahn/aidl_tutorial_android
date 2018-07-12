@@ -21,19 +21,24 @@ public class AllRightElms  extends AppCompatActivity {
         hb.setText("test2");
 
 
-        algoTest();
+        AIDLTest();
 
 
     }
 
 
 
-    public void algoTest(){
+    public void AIDLTest(){
 
 
-        Log.e("coan 1", "hi there");
 
 
-    }
+
+
+    }// test
+
+
+
+
 
 }

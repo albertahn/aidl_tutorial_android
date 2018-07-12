@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 		//initService();
 
+
+
 		Intent intent = new Intent(this, AllRightElms.class);
 
 		startActivity(intent);
